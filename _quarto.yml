@@ -16,4 +16,4 @@ website:
         href: qualitative-data-support.qmd
 format:
   html:
-    theme: cosmo
+    theme: flatly
