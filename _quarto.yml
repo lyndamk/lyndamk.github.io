@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "Lynda Kellam Portfolio"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Talks"
+        href: talks.qmd
+      - text: "Qualitative Data Support"
+        href: qualitative-data-support.qmd
+format:
+  html:
+    theme: cosmo
