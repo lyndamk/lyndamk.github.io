@@ -1,5 +1,14 @@
 ---
 title: "lynda m. kellam"
+image: "images/profile.JPG"
+about: 
+  template: trestles
+  links: 
+    - text: '<i class="ai ai-orcid fa-lg"></i>'
+      href: https://orcid.org/0000-0002-3263-859X
+    - icon: github
+      href: https://github.com/lyndamk/
+  
 ---
 
 Welcome!
