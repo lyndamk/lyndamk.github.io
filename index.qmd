@@ -6,7 +6,11 @@ about:
   links: 
     - icon: github
       href: https://github.com/lyndamk/
-  
+    - text: bluesky
+      href: https://bsky.app/profile/lyndamk.bsky.social
+    - text: orcid
+      href: https://orcid.org/0000-0002-3263-859X
+      
 ---
 
 Welcome!
