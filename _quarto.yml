@@ -12,8 +12,6 @@ website:
         href: about.qmd
       - text: "CV"
         href: cv.qmd
-      - text: "Qualitative Data Support"
-        href: qualitative-data-support.qmd
 format:
   html:
     theme: flatly
