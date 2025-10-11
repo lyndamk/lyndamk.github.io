@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Lynda Kellam Portfolio"
+  title: "Lynda Kellam"
   navbar:
     right:
       - text: "Home"
