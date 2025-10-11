@@ -10,7 +10,7 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
-      - text: "CV"
+      - text: "Recent Talks and Interviews"
         href: cv.qmd
 format:
   html:
