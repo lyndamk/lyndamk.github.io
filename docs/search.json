@@ -1,17 +1,38 @@
 [
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
+    "objectID": "cv.html",
+    "href": "cv.html",
     "title": "CV",
-    "section": "Education",
-    "text": "Education\n\nPh.D. in American History\n\nUniversity of North Carolina at Greensboro | May 2023\n\nMaster in Library & Information Sciences\n\nUniversity of North Carolina at Greensboro | May 2007\n\nMA in Political Science\n\nUniversity of Wisconsin, Madison | May 2000\n\nBA in Political Science & International & Global Studies\n\nUniversity of North Carolina at Greensboro | December 1997"
+    "section": "",
+    "text": "University of Pennsylvania Libraries\n\nSnyder-Granader Director of Research Data & Digital Scholarship | February 2024 - present\nInterim Director of Research Data & Digital Scholarship | July 2023 - January 2024\nHead of Research Data Services | January 2022 - February 2023\n\nCornell University\n\nSenior Data Librarian/Associate Librarian | July 2019 - December 2021\n\nUnversity of North Carolina at Greensboro\n\nResearch Data Coordinator & Associate Professor | May 2007 - July 2019\nAssistant Director of International & Global Studies | March 2016 - December 2019"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "",
+    "text": "University of Pennsylvania Libraries\n\nSnyder-Granader Director of Research Data & Digital Scholarship | February 2024 - present\nInterim Director of Research Data & Digital Scholarship | July 2023 - January 2024\nHead of Research Data Services | January 2022 - February 2023\n\nCornell University\n\nSenior Data Librarian/Associate Librarian | July 2019 - December 2021\n\nUnversity of North Carolina at Greensboro\n\nResearch Data Coordinator & Associate Professor | May 2007 - July 2019\nAssistant Director of International & Global Studies | March 2016 - December 2019"
   },
   {
     "objectID": "cv.html#recent-talks",
     "href": "cv.html#recent-talks",
     "title": "CV",
     "section": "Recent Talks",
-    "text": "Recent Talks\n\nInvited keynote: Kellam, L. (2025, August 15). Rescuing and Preserving Public Data. Penn State Open Scholarship Bootcamp 2025, State College, PA. Zenodo. https://doi.org/10.5281/zenodo.16884194\nInvited keynote: Kellam, L. (2025, June 12). KEEP CALM AND FLOAT ON: Data Rescue and You. The Association for Computers and the Humanities Conference (ACH2025), virtual. Zenodo. https://doi.org/10.5281/zenodo.15649310"
+    "text": "Recent Talks\n\nInvited keynote: Kellam, L. (2025, October 8). Saving What Counts: Lessons from Data Rescues for Today’s Data Librarians. Southeast Data Librarian Symposium 2025, Virtual. Zenodo. https://doi.org/10.5281/zenodo.17329549\nInvited keynote: Kellam, L. (2025, August 15). Rescuing and Preserving Public Data. Penn State Open Scholarship Bootcamp 2025, State College, PA. Zenodo. https://doi.org/10.5281/zenodo.16884194\nInvited keynote: Kellam, L. (2025, June 12). KEEP CALM AND FLOAT ON: Data Rescue and You. The Association for Computers and the Humanities Conference (ACH2025), virtual. Zenodo. https://doi.org/10.5281/zenodo.15649310"
+  },
+  {
+    "objectID": "cv.html#interviews",
+    "href": "cv.html#interviews",
+    "title": "CV",
+    "section": "Interviews",
+    "text": "Interviews\n\nTaRhonda Thomas. “Fears for Independence Mall as Trump orders removal of displays that ‘disparage’ American history.” 6 Action News Philadelphia. September 16, 2025.\nHans Buetow. Rescuing Public Datasets the U.S. Gov’t Deletes. NeverPost Podcast. July 30, 2025.\nThe Knowledge Commons Podcast: Lynda Kellam. July 25, 2025.\nTHE podcast: university libraries – and librarians – that are leading the change. Times Higher Education. July 10, 2025.\nLauren Collister. With Government Data at Risk, These Volunteers are Taking Action. Katina Magazine. May 6, 2025.\nLisa Peet. Coordinating Data Rescue Efforts. Library Journal. April 2, 2025."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in American History\n\nUniversity of North Carolina at Greensboro | May 2023\n\nMaster in Library & Information Sciences\n\nUniversity of North Carolina at Greensboro | May 2007\n\nMA in Political Science\n\nUniversity of Wisconsin, Madison | May 2000\n\nBA in Political Science & International & Global Studies\n\nUniversity of North Carolina at Greensboro | December 1997"
   },
   {
     "objectID": "index.html",
@@ -40,26 +61,5 @@
     "title": "About",
     "section": "",
     "text": "As the Snyder-Granader Director of Research Data & Digital Scholarship at the University of Pennsylvania Libraries, I manage a team of librarians who support data management, GIS, repository services, digital humanities and publishing, AI/ML, and statistical software. In addition to managing the department, I support qualitative researchers with data analysis.\n\n\n\nAs a founding organizer of the Data Rescue Project, I research and write about the Federal Statisitcal System and government information preservation.\n\n\n\nAs a historian, I’ve focused on the nineteenth century American and British anti-imperial movements. My dissertation Looking Forward: Sovereign Responsibilities in the United States and Great Britain, 1894-1920 is available from UNCG’s NC DOCKS. Feel free to read and send me feedback! My current project examines Lucia Ames Mead who is best known as a peace advocate but had ties to the anti-imperialist movement."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "University of Pennsylvania Libraries\n\nSnyder-Granader Director of Research Data & Digital Scholarship | February 2024 - present\nInterim Director of Research Data & Digital Scholarship | July 2023 - January 2024\nHead of Research Data Services | January 2022 - February 2023\n\nCornell University\n\nSenior Data Librarian/Associate Librarian | July 2019 - December 2021\n\nUnversity of North Carolina at Greensboro\n\nResearch Data Coordinator & Associate Professor | May 2007 - July 2019\nAssistant Director of International & Global Studies | March 2016 - December 2019"
-  },
-  {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "CV",
-    "section": "",
-    "text": "University of Pennsylvania Libraries\n\nSnyder-Granader Director of Research Data & Digital Scholarship | February 2024 - present\nInterim Director of Research Data & Digital Scholarship | July 2023 - January 2024\nHead of Research Data Services | January 2022 - February 2023\n\nCornell University\n\nSenior Data Librarian/Associate Librarian | July 2019 - December 2021\n\nUnversity of North Carolina at Greensboro\n\nResearch Data Coordinator & Associate Professor | May 2007 - July 2019\nAssistant Director of International & Global Studies | March 2016 - December 2019"
-  },
-  {
-    "objectID": "cv.html#interviews",
-    "href": "cv.html#interviews",
-    "title": "CV",
-    "section": "Interviews",
-    "text": "Interviews\n\nHans Buetow. Rescuing Public Datasets the U.S. Gov’t Deletes. NeverPost Podcast. July 30, 2025.\nThe Knowledge Commons Podcast: Lynda Kellam. July 25, 2025.\nTHE podcast: university libraries – and librarians – that are leading the change. Times Higher Education. July 10, 2025.\nLauren Collister. With Government Data at Risk, These Volunteers are Taking Action. Katina Magazine. May 6, 2025.\nLisa Peet. Coordinating Data Rescue Efforts. Library Journal. April 2, 2025."
   }
 ]
