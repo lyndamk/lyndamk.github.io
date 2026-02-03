@@ -7,7 +7,7 @@ title: "About"
 As the [Snyder-Granader Director of Research Data & Digital Scholarship at the University of Pennsylvania Libraries](https://www.library.upenn.edu/rdds), I manage a team of librarians who support data management, GIS, repository services, digital humanities and publishing, AI/ML, and statistical software. In addition to managing the department, I support qualitative researchers with data analysis. 
 
 ### Data Rescue
-As a founding organizer of the [Data Rescue Project](https://www.datarescueproject.org), I research and write about the Federal Statisitcal System and government information preservation. 
+As a founding organizer and Director of the [Data Rescue Project](https://www.datarescueproject.org), I research and write about the Federal Statistical System and government information preservation. 
 
 ### History
 As a historian, I've focused on the nineteenth century American and British anti-imperial movements. My dissertation [Looking Forward: Sovereign Responsibilities in the United States and Great Britain, 1894-1920](https://libres.uncg.edu/ir/uncg/listing.aspx?id=46651) is available from [UNCG's NC DOCKS](https://libres.uncg.edu/ir/uncg/). Feel free to read and send me feedback! My current project examines Lucia Ames Mead who is best known as a peace advocate but had ties to the anti-imperialist movement. 
