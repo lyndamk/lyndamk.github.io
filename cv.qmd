@@ -4,13 +4,14 @@ title: "Recent Talks and Interviews"
 
 
 ## Talks
-
-* Invited keynote: Kellam, L. (2025, October 8). Saving What Counts: Lessons from Data Rescues for Today's Data Librarians. Southeast Data Librarian Symposium 2025, Virtual. Zenodo. [https://doi.org/10.5281/zenodo.17329549](https://doi.org/10.5281/zenodo.17329549)
-* Invited keynote: Kellam, L. (2025, August 15). Rescuing and Preserving Public Data. Penn State Open Scholarship Bootcamp 2025, State College, PA. Zenodo. [https://doi.org/10.5281/zenodo.16884194](https://doi.org/10.5281/zenodo.16884194)
-* Invited keynote: Kellam, L. (2025, June 12). KEEP CALM AND FLOAT ON: Data Rescue and You. The Association for Computers and the Humanities Conference (ACH2025), virtual. Zenodo. [https://doi.org/10.5281/zenodo.15649310](https://doi.org/10.5281/zenodo.15649310)
+* Invited webinar: Kellam, L. (2026, January 29). [The Day Federal Data Went Dark: A Year of Monitoring and Action](https://youtu.be/nUwReBMnwqQ?si=JYqBnSKKR93PSGuY). Webinar with Data Index and friends. 
+* Invited keynote: Kellam, L. (2025, October 8). Saving What Counts: Lessons from Data Rescues for Today's Data Librarians. Southeast Data Librarian Symposium 2025, [https://doi.org/10.5281/zenodo.17329549](https://doi.org/10.5281/zenodo.17329549)
+* Invited keynote: Kellam, L. (2025, August 15). Rescuing and Preserving Public Data. Penn State Open Scholarship Bootcamp 2025, State College, PA, [https://doi.org/10.5281/zenodo.16884194](https://doi.org/10.5281/zenodo.16884194)
+* Invited keynote: Kellam, L. (2025, June 12). KEEP CALM AND FLOAT ON: Data Rescue and You. The Association for Computers and the Humanities Conference (ACH2025), [https://doi.org/10.5281/zenodo.15649310](https://doi.org/10.5281/zenodo.15649310)
 
 ## Interviews
-
+* Casy Calver. ["Podcast: Behind the Masthead" special series: a conversation with Lynda Kellam, PhD."](https://rss.com/podcasts/behindtheevidence/2517826/). Behind the Evidence. February 3, 2026.
+* Sam Cole. ["Podcast: A Massive Archiving Effort at National Parks."](https://www.404media.co/podcast-a-massive-archiving-effort-at-national-parks-with-jenny-mcburney-and-lynda-kellam/)." 404 Media. November 10, 2025.
 * TaRhonda Thomas. ["Fears for Independence Mall as Trump orders removal of displays that 'disparage' American history."](https://6abc.com/post/fears-independence-mall-trump-orders-removal-displays-disparage-american-history/17829883/) 6 Action News Philadelphia. September 16, 2025.
 * Hans Buetow. [Rescuing Public Datasets the U.S. Gov't Deletes.](https://www.neverpo.st/rescuing-public-datasets-the-u-s-govt-deletes/) NeverPost Podcast. July 30, 2025.
 * [The Knowledge Commons Podcast: Lynda Kellam](https://www.youtube.com/watch?v=LQVYGZMK3Rw). July 25, 2025.
