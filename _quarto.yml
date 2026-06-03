@@ -12,6 +12,8 @@ website:
         href: about.qmd
       - text: "Recent Talks and Interviews"
         href: cv.qmd
+      - text: "Posts"
+        href: blogs.qmd
 format:
   html:
     theme: flatly
