@@ -4,7 +4,7 @@ title: "About"
 ## Lynda M. Kellam
 
 ### Penn Libraries
-As the [Snyder-Granader Director of Research Data & Digital Scholarship at the University of Pennsylvania Libraries](https://www.library.upenn.edu/rdds), I manage a team of librarians who support data management, GIS, repository services, digital humanities and publishing, AI/ML, and statistical software. In addition to managing the department, I support qualitative researchers with data analysis. 
+As the [Director of Research Data & Digital Scholarship at the University of Pennsylvania Libraries](https://www.library.upenn.edu/rdds), I manage a team of librarians who support data management, GIS, repository services, digital humanities and publishing, AI/ML, and statistical software. In addition to managing the department, I support qualitative researchers with data analysis. 
 
 ### Data Rescue
 As a founding organizer and Director of the [Data Rescue Project](https://www.datarescueproject.org), I research and write about the Federal Statistical System and government information preservation. 
@@ -15,7 +15,7 @@ As a historian, I've focused on the nineteenth century American and British anti
 ## Experience
 
 * University of Pennsylvania Libraries
-  + Snyder-Granader Director of Research Data & Digital Scholarship | February 2024 - present
+  + Director of Research Data & Digital Scholarship | February 2024 - present
   + Interim Director of Research Data & Digital Scholarship | July 2023 - January 2024
   + Head of Research Data Services | January 2022 - February 2023
 

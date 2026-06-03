@@ -5,20 +5,13 @@ title: "Recent Talks and Interviews"
 
 ## Talks
 * Invited keynote: “Championing Public Data: Data Professionals in Civic Life” for the International Association for Social Science Information Service and Technology Conference. Virtual. June 2, 2026.
-
-* Inivited panel: “Future Directions for Digital Scholarship" for the Forging the Future of Digital Scholarship: People, Projects, Priorities 
+* Invited panel: “Future Directions for Digital Scholarship" for the Forging the Future of Digital Scholarship: People, Projects, Priorities 
 symposium at Brown University. Providence, RI. May 1, 2026.
-
 * Invited keynote: “Public Data Stewardship in Challenging Times" for the Research Libraries UK Conference. Virtual. March 26, 2026.
-
 * Invited keynote: “Our Data, Our Right: Community, Data, and Democracy" with Mikala Narlock for the International Digital Curation Conference 2026. Zagreb, Croatia. February 18, 2026.
-
 * Invited panel: [The Day Federal Data Went Dark: A Year of Monitoring and Action](https://youtu.be/nUwReBMnwqQ?si=JYqBnSKKR93PSGuY). Webinar with Data Index and friends. January 29, 2026. 
-
 * Invited keynote: Saving What Counts: Lessons from Data Rescues for Today's Data Librarians. Southeast Data Librarian Symposium 2025, [https://doi.org/10.5281/zenodo.17329549](https://doi.org/10.5281/zenodo.17329549). October 8, 2025. 
-
 * Invited keynote: Rescuing and Preserving Public Data. Penn State Open Scholarship Bootcamp 2025, State College, PA, [https://doi.org/10.5281/zenodo.16884194](https://doi.org/10.5281/zenodo.16884194). August 15, 2025.
-
 * Invited keynote: "KEEP CALM AND FLOAT ON: Data Rescue and You" for the Association for Computers and the Humanities Conference (ACH2025), [https://doi.org/10.5281/zenodo.15649310](https://doi.org/10.5281/zenodo.15649310). June 12, 2025.
 
 ## Interviews
