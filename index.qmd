@@ -21,4 +21,6 @@ I created this as part of the [Penn State Open Scholarship Bootcamp 2025](https:
 
 This site is a work in progress as we all are.
 
-![LJ Mover & Shaker](images/2026_LJ_Digital_MoversandShakersBadge.png){fig-align="left" width=30%}
+<a href="https://www.libraryjournal.com/story/lynda-kellam-movers-shakers-2026-community-builders)" target="_blank">
+  <img src="images/2026_LJ_Digital_MoversandShakersBadge.png" alt="LJ Mover & Shaker" style="width:30%; display:block; margin-right:auto;">
+</a>
