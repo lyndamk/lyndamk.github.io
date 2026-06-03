@@ -20,3 +20,5 @@ I am a librarian, data rescuer, and historian. And I row.
 I created this as part of the [Penn State Open Scholarship Bootcamp 2025](https://penn-state-open-science.github.io/bootcamp-2025/), which included a workshop on [Quarto](https://quarto.org).
 
 This site is a work in progress as we all are.
+
+![LJ Mover & Shaker](images/2026_LJ_Digital_MoversandShakersBadge.png){fig-align="left" width=30%}
