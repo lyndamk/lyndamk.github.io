@@ -2,7 +2,6 @@
 title: "Recent Talks and Interviews"
 ---
 
-
 ## Talks
 * Invited keynote: “Championing Public Data: Data Professionals in Civic Life” for the International Association for Social Science Information Service and Technology Conference. Virtual. June 2, 2026.
 * Invited panel: “Future Directions for Digital Scholarship" for the Forging the Future of Digital Scholarship: People, Projects, Priorities 
