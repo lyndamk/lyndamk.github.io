@@ -2,7 +2,7 @@
 title: "Data Rescue as a Social Movement"
 author: "Lynda Kellam"
 date: "2026-06-03"
-categories: [data rescue, thoughts]
+categories: [data rescue, Internet Archive, social movements]
 description: "Text from speech at Internet Archive's Information Stewardship Forum"
 ---
 ![Graphic Recording of Panel 1.   Photo credit Jasmin Pamukcu / Cusp Consulting](2026-03-19 18.50.09.jpg)
