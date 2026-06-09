@@ -1,0 +1,36 @@
+---
+title: "Data Rescue as a Social Movement"
+author: "Lynda Kellam"
+date: "2026-06-03"
+categories: [data rescue, thoughts]
+description: "Text from speech at Internet Archive's Information Stewardship Forum"
+---
+![Graphic Recording of Panel 1.   Photo credit Jasmin Pamukcu / Cusp Consulting](2026-03-19 18.50.09.jpg)
+
+We were proud to be involved in the Internet Archive's [Information Stewardship Forum 2026](https://blog.archive.org/2026/04/28/information-stewardship-forum-2026-creating-community-and-purpose-around-us-government-information/). Thank you to Merrilee Proffitt for organizing, corralling, and including us. 
+
+Below is my opening statement for the Forum.
+
+The Data Rescue Project is a grassroots, volunteer organization founded in 2025 in response to renewed uncertainty about access to U.S. federal public data. Our mission is to ensure continued access to public data for the public good. We organize rapid response efforts when federal data appear to be or are at risk. Our work benefited from lessons learned during the 2017 data rescue efforts and from SUCHO (Saving Ukrainian Cultural Heritage Online).
+
+From the beginning, we’ve grounded the DRP's work in established data stewardship and curation practices, including documentation, provenance, and long-term accessibility. That perspective comes largely from the communities involved in the project. Many participants are data librarians who were already connected through our professional communities. At the same time, the project has brought in collaborators across professions, institutions, and borders, including many people in this room.
+
+The most effective efforts I’ve seen are cross-professional and cross-institutional. Librarians contribute expertise in metadata standards, preservation workflows, and documentation. Technologists bring automation, scraping, and infrastructure skills. Researchers provide domain knowledge about which datasets are critical. Journalists amplify visibility and accountability. Early on, the DRP Steering Committee created an open communication channel and invited leaders from other organizations in, and they invited us into theirs. Because of these connections, the grassroots and volunteer communities have been able to work effectively to rescue data and build new tools. 
+
+A great example of this kind of coordination was announced yesterday. PEDP and Fulton Ring launched a new platform called HIFLD Next, which uses data rescued by DRP volunteers. This tool is a resurrection of the HIFLD open data portal, which has long been critical for emergency and regional planners. HIFLD Next exists in part because of data preserved by volunteers. I would love to see more projects like this. 
+
+What makes these collaborations work is shared purpose, norms, and trust built through our communities. In some ways, this looks less like a professional network and more like a social movement, organized around the shared conviction that public data is a public good and that protecting it is a collective responsibility. The beauty of social movements is that they can encompass diverse actors, and I think we see that in the groups brought together this week. We have the data rescuers alongside institutions. We have government information librarians and software developers. We have experts in environmental data, demographic data, humanitarian archives, and digital humanities. 
+
+We all care about access to information. The challenge is the same as with any social movement: how do we coordinate across so many diverse interests and expertise, and how do we avoid fragmentation and keep our eyes on the larger question of access to public information?
+
+We need to build distributed, durable capacity for public data and information stewardship. Right now, too much of this work depends on a combination of volunteer labor and a small number of organizations. Volunteers respond when something is clearly at risk, and they bring deep expertise. But most of us are doing this alongside our regular jobs. That model is hard to sustain over time.
+
+At the same time, we can't rely only on a handful of organizations and institutions to carry this work. The major institutions are themselves politically, legally, and financially vulnerable, especially in the US and especially in this current climate. We can't assume they will always be able to serve as stable anchors for this work.
+
+So the question is not just how we coordinate better. It’s how we build a model of coordination that is more distributed, more resilient, and less dependent on any single point of failure. There is no one hero institution that will save our public information.
+
+Building durable coordination includes funding, but not just funding. We need support for the people and communities already doing this work. We need to create infrastructure that can be shared across institutions. We need to recognize volunteer networks as integral to the system, not outside of it. And we need to build public awareness of why this work matters. We cannot coordinate our way out of resource problems, but centralization is not the answer either.
+
+I find the recent and upcoming convenings in this space encouraging. They help people find each other and then build trust. This is how social movements emerge, as coalitions rather than single organizations. But we also need to move beyond conversation toward building durable coordination and shared infrastructure. We need to use this time to take action. 
+
+We are a coalition that believes public data and information are public goods. I am hopeful. And the people in this room are the reason why.
