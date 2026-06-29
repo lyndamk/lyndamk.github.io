@@ -1,0 +1,82 @@
+---
+title: "ALA 2026 Presentation"
+author: "Lynda Kellam"
+date: "2026-06-30"
+categories: [data rescue, government information, panel, community organizing]
+description: "Text from brief presentation at 2026 ALA Annual Conference"
+---
+# Keep the Boat Moving: What Data Rescue Has Taught Us
+
+Good morning, everyone. Thank you so much for the introduction and for inviting me to James Jacobs and Peter Musser for this session on Government Information Lifeguards: Preserving Public Access to our Nation’s Digital Resources. I am talking today as a cofounder of the Data Rescue Project. 
+
+## What is the DRP
+
+The Data Rescue Project is a grassroots volunteer community committed to ensuring access to public data for the public good. Since February 2025,  we have rescued over 2900 datasets from over 90 agencies with the help of hundreds of volunteers. The project began as a response to immediate concerns about data loss, but it has become something much larger. We have worked with other groups, such as the End of Term Web Archive and others James mentioned, to create a community of people who think seriously about what it takes to preserve public information. This community reaches beyond the "usual" people who think about these questions. Many of us are data librarians, but we also include repository managers, researchers, technologists, legal experts, advocates, and members of the public. I have said, and I think it is true, that we have a small but mighty social movement centered on public information, working together across sectors.
+
+## Lessons Learned
+
+We have been working together for a while now. As such, we can start talking about lessons learned. I know many of you have heard me talk about the DRP and its work, so today I decided to do something a bit different. In addition to being a librarian, I am a rower on a competitive masters team. I love rowing as much as I love data.  Last year, in a presentation for the Association of Computers in Humanities, I used rowing to explain how the Data Rescue Project functioned. 
+
+This year, I want to return to that analogy to reflect on what we’ve learned from the project and what those lessons might mean for the future of government information librarianship. I hope you will bear with me. Rowing is a useful frame not just because I love it, but because it is about what happens when people with different roles and abilities commit to moving in the same direction. That is what data rescue requires.
+
+Over the past year and a half, I’ve realized that the most important lessons from data rescue aren’t really about rescuing data. They’re about how communities organize themselves to preserve public knowledge. That’s what I’d like to reflect on today.
+
+## Lesson 1: A Boat Moves Only When Everyone Rows Together
+
+The first lesson in rowing is that the boat only moves when everyone rows together. This is a fundamental truth for what we call the Big Boats. The goal is to get into a flow in which the boat feels light and effortless. 
+
+For the DRP, we can see this through the ways that we have worked together as a crew. Many of us are data librarians, but we also have people scraping websites, repository managers, researchers, and other volunteers, all working together for the same purpose. One of the first things we learned is that no single profession can do this work alone. Government information librarians have always been connectors between agencies, archives, libraries, researchers, and the public. Data rescue made those connections more visible and immediate.
+
+That collaboration is what got us moving. But rowing also teaches us that moving together isn’t enough—you have to move well.
+
+## ## Lesson 2: Speed Matters, but Technique Matters More
+
+Lesson 2 - Many people think speed is the key, but you can only achieve true flow and move a big boat if everyone has good oar technique. 
+
+At the beginning of the effort, many people imagined rescue as downloading everything as quickly as possible. And in some ways, that was the case in January through the spring of 2025. But our goal was to use our expertise as librarians to prioritize and document our processes. We know that metadata, context, and documentation matter, and we wanted to bring our librarian skills to the fore in this moment.
+
+Speed got the headlines. Curation made the rescues usable. While in some cases we had to act quickly, we wanted to do so with our curation skills in mind. We brought professional practice to emergency response. 
+
+Good technique helps you move efficiently. But even the best crew can’t control everything around them.
+
+## Lesson 3: You Can’t Control the Water
+
+Lesson 3 - Rowers cannot control the elements, the weather, or the water conditions. You have to learn how to row in whatever nature gives.
+
+For the DRP and the wider community, we cannot control any of the changes happening around us. From agency decisions to funding changes to staffing shifts. All of those things are out of our control. 
+
+But there are things we can control. We can prepare for the future by creating more resilient repositories, more enduring partnerships across the community, and by increasing our response capacity.
+
+The lesson here isn’t that we can prevent every loss. It’s that resilience comes from being prepared before a crisis arrives. And government information librarians have always practiced this kind of preparedness.
+
+Preparation matters. But preparation alone doesn’t accomplish anything without people willing to do the work.
+
+## Lesson 4: The Coxswain Cannot Row the Boat
+
+Lesson 4 - Every large boat with 8 people has a coxswain. This person helps to steer and protect the rowers. But the cox can't row the boat. In many cases, they don't even know how to row. Instead, the cox guides and communicates with the boat. They motivate the rowers to do what we came to do--win a race.
+
+The DRP steering committee did not rescue 2,500 datasets; we provided guidance and direction. Our volunteers did the hard work alongside us. They gave evenings, weekends, expertise, and energy because they believed public information mattered.
+
+This is something we need to reflect on for the future. How can we better incorporate our designated communities into our work? Volunteers came out in numbers we did not expect, with skills we did not anticipate. The question is how we honor that by making space for them in the ongoing work, not just in moments of crisis.
+
+And if we want those communities to last, we also have to think about sustainability and recovery.
+
+## Lesson 5: You win on the recovery
+
+Finally, we are at Lesson 5. In rowing, the drive is when you push hard with your legs. Many people focus on that drive as the key to winning. But you win on the recovery or the move back up the slide. It is when you can catch your breath, relax, and let the boat run. Rowers know recovery matters too.
+
+For the DRP, the public or those outside of our group may focus on the rescues and the emergency responses, those things that have hit the headlines. For us, recovery is the quieter work. It is metadata and documentation creation. It is improving access and making rescued data easier to find. It is organizing and community building. And at a time like now, when we don't need rapid response as much, we can focus on making the data more accessible and easier to find.
+
+Recovery also belongs to people. Our work has been—and will continue to be—human-centered. We need to think realistically about how people can work with us and give them space to step back when needed. Almost 900 volunteers cannot continue at the same pace forever.
+
+Therefore, we have to think about the future. Not only of DRP but also of data rescue. We don't want anyone in the future or in other situations to reinvent this. To do that, we are creating a toolkit to give to future rescuers who want to continue the work. We will be talking more about that effort in the coming months.  
+
+## Closing Slide: Keeping the Boat Moving
+
+The Data Rescue Project has taught me that preserving government information is a community challenge rather than a technical problem. The technologies will change, the risks will change, and the political environment will change. 
+
+A boat only moves when people row together. Public information survives for exactly the same reason. Whether it remains accessible depends on whether we continue building communities willing to row together and keep rowing.
+
+
+<iframe src="2026-06-29-ALA.pdf" style="width:100%; height:400px; border:none;" allowfullscreen></iframe>
+The following text is from my short presentation for the 2026 ALA Annual Conference on June 30, 2026. Slides are available on Zenodo: Kellam, L. (2026, June 30). Keep the Boat Moving: What Data Rescue Has Taught Us. Zenodo. https://doi.org/10.5281/zenodo.21047126
