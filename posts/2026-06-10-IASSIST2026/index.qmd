@@ -1,5 +1,5 @@
 ---
-title: "IASSIST 2026 Keynote"
+title: "Championing Public Data: IASSIST 2026 Keynote"
 author: "Lynda Kellam"
 date: "2026-06-10"
 categories: [data rescue, IASSIST, speech, data preservation, data access]
