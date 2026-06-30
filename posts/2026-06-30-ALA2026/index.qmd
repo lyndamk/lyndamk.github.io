@@ -1,5 +1,5 @@
 ---
-title: "ALA Annual Conference 2026 - Part 1"
+title: "Keep the Boat Moving at ALA Annual"
 author: "Lynda Kellam"
 date: "2026-06-30"
 categories: [data rescue, government information, community organizing]
