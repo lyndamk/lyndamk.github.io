@@ -8,7 +8,7 @@ description: "Text from brief presentation at 2026 ALA Annual Conference"
 
 I had the wonderful opportunity to head to the ALA Annual Conference again, this time in Chicago. I am no longer a regular attendee because of other commitments, but this year I was invited to present on data rescue, and the Data Rescue Project received the ProQuest/GODORT/ALA “Documents to the People” Award.
 
-This post has the text and slides of my presentation. A second post includes [information about the Proquest Documents to the People award](https://lyndamk.github.io/2026-07-31-ALA2026-Pt1/).
+This post has the text and slides of my presentation. A second post includes [information about the Proquest Documents to the People award](https://lyndamk.github.io/2026-07-31-ALA2026-Pt2/).
 
 ---
 
