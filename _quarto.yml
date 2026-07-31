@@ -13,7 +13,7 @@ website:
       - text: "Recent Talks and Interviews"
         href: cv.qmd
       - text: "Posts"
-        href: blogs.qmd
+        href: posts.qmd
 format:
   html:
     theme: flatly

@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/blogs.html",
+    "listing": "/posts.html",
     "items": [
+      "/posts/2026-07-31-ALA2026-Pt1/index.html",
       "/posts/2026-06-30-ALA2026/index.html",
       "/posts/2026-06-10-IASSIST2026/index.html",
       "/posts/2026-06-03-DRisasociamovement/index.html"
